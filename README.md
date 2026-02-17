@@ -14,6 +14,7 @@ Under the license  "one-smith" user students and player in download right verief
 # License Commercialy
 The license "Othe-Community" is license for using commercialy and can sell and other using for this application.
 
-# Collaborato and constributor
+# Collaborator and constributor
+@R-DINO
 
 &copy Allright reserved 2026. Craftdown.com
